@@ -57,13 +57,25 @@ https://github.com/pekingdoncic/Computer-Graphics-Course-Experiment
 
 ## 数字视频处理：
 
+课程教程以及ppt：
+
+https://github.com/pekingdoncic/Digital-Video-Processing-Tutorial
+
+
+
 课程实验：
 
 https://github.com/pekingdoncic/Digital-Video-Course-Experiment.git
 
 
 
+课程设计：
+
+https://github.com/pekingdoncic/License-Plate-Recognition-System---Digital-Video-Processing-Course-Design
+
 ## 网页动画制作（three.js）：
+
+
 
 课程实验：
 
