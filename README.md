@@ -3,6 +3,12 @@
 
 # 目录
 
+## 深度学习：
+
+其中包含有上课ppt以及两个完成的实验和相关的源码
+
+https://github.com/pekingdoncic/DeepLearning-tuturial
+
 ## c和c++
 
 学习过程中写过的程序和实验都在如下的链接中：
