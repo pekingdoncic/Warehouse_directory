@@ -41,7 +41,15 @@ https://github.com/pekingdoncic/Digital-Image-Processing-System.git
 
 ## 数字媒体基础
 
+课程资料：
+
 https://github.com/pekingdoncic/Digital-Media-Basics-Tutorial
+
+
+
+实验源码：
+
+https://github.com/pekingdoncic/Digital-Media-Basics-Experiment
 
 ## 网页动画制作（three.js）：
 
@@ -62,6 +70,12 @@ https://github.com/pekingdoncic/From-showroom-to-counter-terrorism-operations.gi
 
 
 ## 计算机图形学：
+
+课程学习资料：
+
+https://github.com/pekingdoncic/OpenGL-tuturial
+
+
 
 课程实验：
 
