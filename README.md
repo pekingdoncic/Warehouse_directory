@@ -206,3 +206,9 @@ https://github.com/pekingdoncic/3D-animation-tutorial
 课程设计+个人VR项目制作：
 
 https://github.com/pekingdoncic/Rising-Boxing-Star
+
+
+
+## 古代数学成就展览馆
+
+https://github.com/pekingdoncic/Museum-of-Ancient-Mathematics
